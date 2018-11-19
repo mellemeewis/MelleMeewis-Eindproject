@@ -7,6 +7,7 @@ Tegenwoordig gaat bijna alles digitaal en online. Gesprekken verlopen via WhattA
 Een digitale wegwerpcamera: Je krijgt de foto's thuisgestuurd en is het een verassing hoe de foto's eruit zijn gekomen.
 
 ### Visual sketch
+![alt text](https://github.com/mellemeewis/MelleMeewis-Eindproject/blob/master/doc/visual%20sketch.png)
 
 ### Main features
 1) Minimum Viable Product
